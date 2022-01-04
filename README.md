@@ -2,16 +2,15 @@
 Module 7
 ## Project Overview
 
-a. 
-The retiring employees by title
-b. 
-The number of retiring employees grouped by title
-c. 
-The employees eligible for the mentorship program
-d. 
-The number of rolls to fill grouped by title and department
-e. 
-The number of qualified, retirement-ready employees to mentor the next generation grouped by title and department
+- The retiring employees by title
+
+- The number of retiring employees grouped by title
+
+- The employees eligible for the mentorship program
+ 
+- The number of rolls to fill grouped by title and department
+  
+- The number of qualified, retirement-ready employees to mentor the next generation grouped by title and department
 
 
 ## Summary
